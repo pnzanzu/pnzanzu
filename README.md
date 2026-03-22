@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pnzanzu BCs student at UoPeople
+- 👋 Hi, I’m @pnzanzu MSc student at UoPeople
 - 👀 I’m interested in programming and want real to learn much in it and discover the beauty of Computer
 - 🌱 I’m currently learning applications mobile and computer graphic courses
 - 💞️ I’m looking to collaborate on python, android, javascript, java, c, csharp, css, html etc
